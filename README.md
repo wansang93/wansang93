@@ -16,7 +16,6 @@
 - 2020 Jul ~ : **Basic Machine/Deep Learning** [Youtube Link](https://www.youtube.com/playlist?list=PLlMkM4tgfjnLSOjrEJN31gZATbcj_MpUm)
 - 2020 Jul ~ : **Basic Modern JavaScript** book
 - 2020 Jul ~ : **Deep Learning with Python** book
-- 2020 Jul ~ : **Basic Git & Github(Document Controller from the hell)** book & web [Youtube Link](https://www.youtube.com/playlist?list=PLRx0vPvlEmdD5FLIdwTM4mKBgyjv4no81)
 
 ## :school: What I've learned
 
@@ -34,12 +33,13 @@
 - 2019 Nov: **Python for Beginner** [Programmers Link](https://programmers.co.kr/learn/courses/2)
 - 2019 Nov ~ 2020 Jul: **Python Coding Do-Jang** [Do-Jang Link](https://dojang.io/course/view.php?id=7)
 - 2020 Feb 17 ~ 18: **Code Python like Python style** [Programmers Link](https://programmers.co.kr/learn/courses/4008)
+- 2020 Jul: **Basic Git & Github(Document Controller from the hell)** book & web [Youtube Link](https://www.youtube.com/playlist?list=PLRx0vPvlEmdD5FLIdwTM4mKBgyjv4no81)
 
 ### :books: From Books 
 
 1. :closed_book:
-2. :orange_book:
-3. :notebook_with_decorative_cover:
+2. :orange_book: 
+3. :notebook_with_decorative_cover: 2019 May ~ 2019 Jul: Python for Beginner
 4. :ledger:
 5. :green_book:
 6. :blue_book:
