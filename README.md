@@ -5,7 +5,7 @@
 ## :astonished: What I am interested in now
 
 1. Python for Data Analysis
-2. AL(especially Tensorflow and Keras)
+2. ML(especially Tensorflow and Keras)
 
 ## :stuck_out_tongue_closed_eyes: What I want to be a **Data Scientist** 
 
@@ -21,6 +21,7 @@
 - 2020 Jul ~ : **Basic Machine/Deep Learning** [Youtube Link](https://www.youtube.com/playlist?list=PLlMkM4tgfjnLSOjrEJN31gZATbcj_MpUm)
 - 2020 Jul ~ : **Basic Modern JavaScript** book
 - 2020 Jul ~ : **Deep Learning with Python** book
+- 2020 Sep ~ : **This is Linux(CentOS 8)** [Youtube Link](https://www.youtube.com/playlist?list=PLVsNizTWUw7EJ9z-LW3lv3VC-6HI9I3hN)
 
 ## :school: What I've learned
 
@@ -30,7 +31,7 @@
   - Cloud Service(Azure)
   - Computer-Vision(Python)
   - Data Analysis(Numpy, Pandas, Matplotlib, Scikit-Learn, etc.)
-  - AL / ML / Deep Learning / Reinforcement Learning(Tensorflow, Keras, etc.)
+  - AI / ML / Deep Learning / Reinforcement Learning(Tensorflow, Keras, etc.)
   - Web Programming(JS, Django)
 
 ### :computer: On the Internet 
@@ -42,8 +43,8 @@
 
 ### :books: From Books 
 
-1. :closed_book:
-2. :orange_book: 
+1. :closed_book: 2019 Apr ~ 2019 May: **Microsoft Azure Fundamentals**
+2. :orange_book: 2019 May ~ 2019 May: **An Introduction to Statistical Learning with Applications in R**
 3. :notebook_with_decorative_cover: 2019 May ~ 2019 Jul: **Python for Beginner**
 4. :ledger:
 5. :green_book:
