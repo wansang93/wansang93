@@ -4,27 +4,25 @@
 
 <details>
 <summary>more details</summary>
+<div markdown="1">
 
 ## :astonished: What I am interested in now
 
-1. Linux Server & Cloud
-2. ML(especially Tensorflow and Keras)
+1. ML & AL(especially Tensorflow and Keras)
+2. Linux Server & Cloud
 
 ## :stuck_out_tongue_closed_eyes: What I want to be a **Data Scientist**
 
-<div markdown="1">
-
 ## :stuck_out_tongue: What I am studying
 
-- 2020 Oct: **This is Coding test** [Youtube Link](https://www.youtube.com/playlist?list=PLRx0vPvlEmdAghTr5mXQxGpHjWqSz0dgC)
-- 2020 Dec: I am studying at **Samsung Multi-Campus**
+- 2020 Jul ~ : **Basic Modern JavaScript** book
+- 2020 Oct ~ : **This is Coding test** [Youtube Link](https://www.youtube.com/playlist?list=PLRx0vPvlEmdAghTr5mXQxGpHjWqSz0dgC)
+- 2020 Dec ~ : I am studying at **Samsung Multi-Campus**
 
 ## :kissing_smiling_eyes: I'll study
 
-- 2020 Mar ~ : **Python for Data Analysis** book
-- 2020 Jul ~ : **Basic Machine/Deep Learning** [Youtube Link](https://www.youtube.com/playlist?list=PLlMkM4tgfjnLSOjrEJN31gZATbcj_MpUm)
-- 2020 Jul ~ : **Basic Modern JavaScript** book
-- 2020 Jul ~ : **Deep Learning with Python** book
+- **Deep Learning with Python** book
+- **Basic Machine/Deep Learning** [Youtube Link](https://www.youtube.com/playlist?list=PLlMkM4tgfjnLSOjrEJN31gZATbcj_MpUm)
 - **This is MySQL(8.0)** [Youtube Link](https://www.youtube.com/playlist?list=PLVsNizTWUw7Hox7NMhenT-bulldCp9HP9)
 - **Linux on Coding Everybody** [Youtube Link](https://www.youtube.com/playlist?list=PLuHgQVnccGMBT57a9dvEtd6OuWpugF9SH), [Site Link](https://opentutorials.org/course/2598)
 
@@ -54,7 +52,7 @@
 2. :orange_book: 2019 May ~ 2019 May: **An Introduction to Statistical Learning with Applications in R**
 3. :notebook_with_decorative_cover: 2019 May ~ 2019 Jul: **Python for Beginner**
 4. :ledger: 2020 Nov ~ 2020 Dec: **Linux Master Crtification(1st)** book
-5. :green_book:
+5. :green_book: **Python for Data Analysis** book
 6. :blue_book:
 
 ---
