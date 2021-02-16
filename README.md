@@ -2,26 +2,29 @@
 
 ### **Slow and steady wins the race** :turtle:
 
+### [TEAM NOTE](https://github.com/wansang93/Algorithm/tree/master/Team%20Note) for Algorithm with Python
+
 <details>
 <summary>more details</summary>
 <div markdown="1">
 
-## :astonished: What I am interested in now
+## :stuck_out_tongue_winking_eye: What I am interested in now
 
-1. ML & AL(especially Tensorflow and Keras)
-2. Linux Server & Cloud
+1. Linux Server & Cloud
+2. BitCoin(blockchain), trading bot
+3. ML & AL(especially Tensorflow and Keras)
 
 ## :stuck_out_tongue_closed_eyes: What I want to be a **Data Scientist**
 
 ## :stuck_out_tongue: What I am studying
 
-- 2020 Jul ~ : **Basic Modern JavaScript** book
 - 2020 Oct ~ : **This is Coding test** [Youtube Link](https://www.youtube.com/playlist?list=PLRx0vPvlEmdAghTr5mXQxGpHjWqSz0dgC)
 - 2020 Dec ~ : I am studying at **Samsung Multi-Campus**
 
 ## :kissing_smiling_eyes: I'll study
 
 - **Deep Learning with Python** book
+- **Basic Modern JavaScript** book
 - **Basic Machine/Deep Learning** [Youtube Link](https://www.youtube.com/playlist?list=PLlMkM4tgfjnLSOjrEJN31gZATbcj_MpUm)
 - **This is MySQL(8.0)** [Youtube Link](https://www.youtube.com/playlist?list=PLVsNizTWUw7Hox7NMhenT-bulldCp9HP9)
 - **Linux on Coding Everybody** [Youtube Link](https://www.youtube.com/playlist?list=PLuHgQVnccGMBT57a9dvEtd6OuWpugF9SH), [Site Link](https://opentutorials.org/course/2598)
@@ -46,17 +49,18 @@
 - 2020 Jul: **Basic Git & Github(Document Controller from the hell)** book & web [Youtube Link](https://www.youtube.com/playlist?list=PLRx0vPvlEmdD5FLIdwTM4mKBgyjv4no81)
 - 2020 Sep ~ 2020 Dec: **This is Linux(CentOS 8)** [Youtube Link](https://www.youtube.com/playlist?list=PLVsNizTWUw7EJ9z-LW3lv3VC-6HI9I3hN)
 
+will be update
+
 ### :books: From Books
 
-1. :closed_book: 2019 Apr ~ 2019 May: **Microsoft Azure Fundamentals**
-2. :orange_book: 2019 May ~ 2019 May: **An Introduction to Statistical Learning with Applications in R**
-3. :notebook_with_decorative_cover: 2019 May ~ 2019 Jul: **Python for Beginner**
-4. :ledger: 2020 Nov ~ 2020 Dec: **Linux Master Crtification(1st)** book
-5. :green_book: **Python for Data Analysis** book
-6. :blue_book:
+:closed_book: :orange_book: :notebook_with_decorative_cover: :ledger: :green_book: :blue_book:
+
+will be update
 
 ---
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=wansang93)](https://github.com/anuraghazra/github-readme-stats)
+
+Last Update 2021-02-17
 
 </div>
 </details>
