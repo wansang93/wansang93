@@ -1,13 +1,10 @@
 ## 🏆 Main Skills
 
-[![Wansang's github stats](https://github-readme-stats.vercel.app/api?username=wansang93&title_color=FFFFFF&text_color=ced6e0&bg_color=30deg,000000,57606f)](https://github.com/anuraghazra/github-readme-stats)
-[![wansang93 Solved.ac](http://mazassumnida.wtf/api/v2/generate_badge?boj=wansang93)](https://solved.ac/wansang93)
+### 🥇 Server ![AWS badge](https://img.shields.io/badge/AWS-232F3E.svg?&style=flat-square&logo=Amazon%20AWS&logoColor=white) ![MySQL badge](https://img.shields.io/badge/MySQL-4479A1.svg?&style=flat-square&logo=MySQL&logoColor=white) ![MongoDB badge](https://img.shields.io/badge/MongoDB-47A248.svg?&style=flat-square&logo=MongoDB&logoColor=white) ![Linux badge](https://img.shields.io/badge/Linux-FCC624.svg?&style=flat-square&logo=Linux&logoColor=black) ![Git badge](https://img.shields.io/badge/Git-F05032.svg?&style=flat-square&logo=Git&logoColor=white)
 
-### 🥇 Server ![AWS badge](https://img.shields.io/badge/AWS-232F3E.svg?&style=flat-square&logo=Amazon%20AWS&logoColor=white) ![MySQL badge](https://img.shields.io/badge/MySQL-4479A1.svg?&style=flat-square&logo=MySQL&logoColor=white) ![Python badge](https://img.shields.io/badge/Python-3776AB.svg?&style=flat-square&logo=Python&logoColor=white) ![Linux badge](https://img.shields.io/badge/Linux-FCC624.svg?&style=flat-square&logo=Linux&logoColor=black) ![Git badge](https://img.shields.io/badge/Git-F05032.svg?&style=flat-square&logo=Git&logoColor=white)
+### 🥉 Web ![Django badge](https://img.shields.io/badge/Django-092E20.svg?&style=flat-square&logo=Django&logoColor=white) ![React badge](https://img.shields.io/badge/React-61DAFB.svg?&style=flat-square&logo=React&logoColor=black)  ![CSS3 badge](https://img.shields.io/badge/CSS3-1572B6.svg?&style=flat-square&logo=CSS3&logoColor=white) ![JavaScript badge](https://img.shields.io/badge/JavaScript-F7DF1E.svg?&style=flat-square&logo=JavaScript&logoColor=black) ![HTML5 badge](https://img.shields.io/badge/HTML5-E34F26.svg?&style=flat-square&logo=HTML5&logoColor=white)
 
-### 🥉 Web ![React badge](https://img.shields.io/badge/React-61DAFB.svg?&style=flat-square&logo=React&logoColor=black) ![CSS3 badge](https://img.shields.io/badge/CSS3-1572B6.svg?&style=flat-square&logo=CSS3&logoColor=white) ![JavaScript badge](https://img.shields.io/badge/JavaScript-F7DF1E.svg?&style=flat-square&logo=JavaScript&logoColor=black) ![HTML5 badge](https://img.shields.io/badge/HTML5-E34F26.svg?&style=flat-square&logo=HTML5&logoColor=white)
-
-### 🥈 AI ![OpenCV badge](https://img.shields.io/badge/OpenCV-5C3EE8.svg?&style=flat-square&logo=OpenCV&logoColor=white) ![Keras badge](https://img.shields.io/badge/Keras-D00000.svg?&style=flat-square&logo=Keras&logoColor=white) ![TensorFlow badge](https://img.shields.io/badge/TensorFlow-FF6F00.svg?&style=flat-square&logo=TensorFlow&logoColor=white)
+### 🥈 AI ![Python badge](https://img.shields.io/badge/Python-3776AB.svg?&style=flat-square&logo=Python&logoColor=white) ![OpenCV badge](https://img.shields.io/badge/OpenCV-5C3EE8.svg?&style=flat-square&logo=OpenCV&logoColor=white) ![Keras badge](https://img.shields.io/badge/Keras-D00000.svg?&style=flat-square&logo=Keras&logoColor=white) ![TensorFlow badge](https://img.shields.io/badge/TensorFlow-FF6F00.svg?&style=flat-square&logo=TensorFlow&logoColor=white)
 
 ---
 
@@ -148,5 +145,9 @@ will be updated
 </details>
 
 ---
+
+[![Wansang's github stats](https://github-readme-stats.vercel.app/api?username=wansang93&title_color=FFFFFF&text_color=ced6e0&bg_color=30deg,000000,57606f)](https://github.com/anuraghazra/github-readme-stats)
+
+[![wansang93 Solved.ac](http://mazassumnida.wtf/api/mini/generate_badge?boj=wansang93)](https://solved.ac/wansang93)
 
 Last Update 2021-08-04
