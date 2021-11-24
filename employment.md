@@ -9,21 +9,22 @@
   - 기간: 2014/04/29 ~ 2016/01/28
   - 내용: 육군, 병장, 만기재대, 보병(수색대)
 
-# 학력 / 연구 / 경력 / NCS
+## 학력 / 연구 / 경력 / NCS
 
-## 학력
+### 학력
 
-### 고등학교
+#### 고등학교
 
 - 안곡고등학교
   - 기간: 2009/03/02 ~ 2012/02/09
   - 내용: 졸업, 인문
 
-### 대학교
+#### 대학교
 
 - 홍익대학교
   - 기간: 2012/03/02 ~ 2019/02/22
-  - 내용: 학사 졸업, 휴학 1년
+  - 전공: 컴퓨터정보통신공학과
+  - 내용: 학사 졸업, 휴학 3년(군휴학 2년, 워킹홀리데이 1년)
   - 계열: 공학계열(컴퓨터·통신)
   - 학점
     - 전공 학점: 2.76
@@ -74,29 +75,34 @@
   - 부서: 보안관제실
   - 직급: 인턴
   - 연봉: 월 120만원
-  - 담당 업무: 
+  - 담당 업무: 보안 관제
   - 퇴직 사유: 계약 종료
 
-# 어학 / 자격 / 기타
+## 어학 / 자격 / 기타
 
-## 어학
+### 해외 경험
 
 - 호주 워킹홀리데이
   - 기간: 2017/03/21 ~ 2018/02/20(337일)
   - 경험기술: 어학연수, 홈스테이, 아르바이트
 
-## 자격
+- 호주 여행
+  - 기간: 2019/01/27 ~ 2019/03/26(59일)
+  - 경험기술: 홈스테이, 여행
+
+### 자격
 
 없음
 
-### 어학
+#### 어학
 
 - 토익스피킹
   - 날짜: 2020/03/22
   - 기관: 한국TOEIC위원회
   - 점수: Level5 120점
+  - 등록번호: 140819
 
-### 기타
+#### 기타
 
 - 빅데이터 활용(딥러닝) AI 설계
   - 기간: 2019/04/22 ~ 2019/11/27(149일, 1184시간)
@@ -107,5 +113,64 @@
   - 기간: 2020/12/28 ~ 2021/06/04(110일, 880시간)
   - 교육기관: 멀티캠퍼스
   - 훈련비: 14,989,920 원
-  - 내용: Web Programming(HTML, CSS, JavaScript, Django, React, Redux, Mobx), Cloud Service(AWS), 
-Docker, Kubernetes
+  - 내용: Web Programming(HTML, CSS, JavaScript, Django, React, Redux, Mobx), Cloud Service(AWS), Docker, Kubernetes
+
+## 기술
+
+[![JavaScript badge](https://img.shields.io/badge/JavaScript-F7DF1E.svg?&style=flat-square&logo=JavaScript&logoColor=black)](#) ✨Sub Language, JS의 기본문법과 DOM을 다룸, Frontend의 언어로 사용
+
+[![Linux badge](https://img.shields.io/badge/Linux-FCC624.svg?&style=flat-square&logo=Linux&logoColor=black)](#) ✨Main OS for Server, 리눅스 기본과 쉘 스크립트를 익히고 다양한 서버 구축, 리눅스마스터 1급 도전 예정
+
+[![MobX badge](https://img.shields.io/badge/MobX-FF9955.svg?&style=flat-square&logo=MobX&logoColor=white)](#) React 프로젝트(태양광) 상태관리를 MobX로 구현
+
+[![TensorFlow badge](https://img.shields.io/badge/TensorFlow-FF6F00.svg?&style=flat-square&logo=TensorFlow&logoColor=white)](#) TensorFlow 2.0을 맛 봄
+
+[![Git badge](https://img.shields.io/badge/Git-F05032.svg?&style=flat-square&logo=Git&logoColor=white)](#) Git으로 대부분의 코드를 관리
+
+[![HTML5 badge](https://img.shields.io/badge/HTML5-E34F26.svg?&style=flat-square&logo=HTML5&logoColor=white)](#) 기본적인 HTML의 태그를 활용하여 웹 제작 가능
+
+[![Oracle badge](https://img.shields.io/badge/OracleDB-F80000.svg?&style=flat-square&logo=Oracle&logoColor=white)](#) 학부시절 사용 경험(1학기)
+
+[![Keras badge](https://img.shields.io/badge/Keras-D00000.svg?&style=flat-square&logo=Keras&logoColor=white)](#) Keras로 간단한 머신러닝 구현 가능
+
+[![Slack badge](https://img.shields.io/badge/Slack-4A154B.svg?&style=flat-square&logo=Slack&logoColor=white)](#) 협업 메신저로 사용 경험
+
+[![Heroku badge](https://img.shields.io/badge/Heroku-430098.svg?&style=flat-square&logo=Heroku&logoColor=white)](#) 해로쿠를 통한 깃연동 앱 배포 가능, 배포 중
+
+[![Redux badge](https://img.shields.io/badge/Redux-764ABC.svg?&style=flat-square&logo=Redux&logoColor=white)](#) React 프로젝트(비트코인) 상태관리를 MobX로 구현
+
+[![OpenCV badge](https://img.shields.io/badge/OpenCV-5C3EE8.svg?&style=flat-square&logo=OpenCV&logoColor=white)](#) OpenCV 라이브러리를 활용해 Image 처리작업
+
+[![Jira badge](https://img.shields.io/badge/Jira-0052CC.svg?&style=flat-square&logo=Jira&logoColor=white)](#) compliance로 문서화 협업 작업
+
+[![Azure badge](https://img.shields.io/badge/Azure-0078D4.svg?&style=flat-square&logo=Microsoft%20Azure&ogoColor=white)](#) Azure 플랫폼 사용법 강의 수강(3주)
+
+[![R badge](https://img.shields.io/badge/R-276DC3.svg?&style=flat-square&logo=R&logoColor=white)](#) Youtube(트럼프와 김정은의 만남) 댓글 크롤링으로 감정 분석
+
+[![CSS3 badge](https://img.shields.io/badge/CSS3-1572B6.svg?&style=flat-square&logo=CSS3&logoColor=white)](#) 간단한 조작 가능, 코드를 어느정도 읽을 수 잇음
+
+[![MySQL badge](https://img.shields.io/badge/MySQL-4479A1.svg?&style=flat-square&logo=MySQL&logoColor=white)](#) 해당 DB로 이미지 저장소로 활용
+
+[![Python badge](https://img.shields.io/badge/Python-3776AB.svg?&style=flat-square&logo=Python&logoColor=white)](#) ✨Main Language
+
+[![Java badge](https://img.shields.io/badge/Java-007396.svg?&style=flat-square&logo=Java&logoColor=white)](#) 학부시절 객체지향형 언어로 배움
+
+[![React badge](https://img.shields.io/badge/React-61DAFB.svg?&style=flat-square&logo=React&logoColor=black)](#) 태양광, 비트코인 프로젝트를 React-app으로 구현
+
+[![MongoDB badge](https://img.shields.io/badge/MongoDB-47A248.svg?&style=flat-square&logo=MongoDB&logoColor=white)](#) 비트코인 프로젝트 회원 DB를 구현
+
+[![Django badge](https://img.shields.io/badge/Django-092E20.svg?&style=flat-square&logo=Django&logoColor=white)](#) MVC 패턴으로 웹 구현
+
+[![MariaDB badge](https://img.shields.io/badge/MariaDB-003545.svg?&style=flat-square&logo=MariaDB&logoColor=white)](#) 해당 DB로 이미지 저장소로 활용
+
+[![Miro badge](https://img.shields.io/badge/Miro-232F3E.svg?&style=flat-square&logo=Miro&logoColor=white)](#) FlowChart 제작, 협업 툴로 이용
+
+[![AWS badge](https://img.shields.io/badge/AWS-232F3E.svg?&style=flat-square&logo=Amazon%20AWS&logoColor=white)](#) ✨Main Server / Cloud Platfrom, AWS SSA 자격증 시험 예정
+
+[![GitHub badge](https://img.shields.io/badge/GitHub-181717.svg?&style=flat-square&logo=GitHub&logoColor=white)](#) ✨Main Version Control Platform
+
+[![Notion badge](https://img.shields.io/badge/Notion-000000.svg?&style=flat-square&logo=Notion&logoColor=white)](#) ✨Main Document Platform
+
+[![C badge](https://img.shields.io/badge/C-A8B9CC.svg?&style=flat-square&logo=C&logoColor=black)](#) 학부시절 절차지향형 언어로 배움
+
+아이콘 만들어주는 사이트 참고 링크 -> [https://simpleicons.org](https://simpleicons.org)
