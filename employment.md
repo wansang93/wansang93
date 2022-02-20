@@ -130,7 +130,7 @@
   - 기간: 2019/04/22 ~ 2019/11/27(149일, 1184시간)
   - 교육기관: 멀티캠퍼스
   - 훈련비: 16,090,560 원
-  - 내용: Cloud Service(Azure), Statistics(R), Computer-Vision(Python, MySQL), Data Analysis(Numpy, Pandas, Matplotlib, Scikit-Learn, etc.), AI / ML / Deep Learning / Reinforcement Learning(Tensorflow, Keras, etc.) Web Programming(JavaScript, Django)
+  - 내용: Cloud Service(Azure), Statistics(R), Python Basic, Computer-Vision(Python, MySQL), Data Analysis(Numpy, Pandas, Matplotlib, Scikit-Learn, etc.), AI / ML / Deep Learning / Reinforcement Learning(Tensorflow, Keras, etc.) Web Programming(JavaScript, Django)
 - 프로젝트형 클라우드(MSA) 서비스 개발
   - 기간: 2020/12/28 ~ 2021/06/04(110일, 880시간)
   - 교육기관: 멀티캠퍼스
@@ -140,7 +140,7 @@
   - 기간: 2022/01/05 ~
   - 교육기관: 멀티캠퍼스
   - 품위유지비: 월 100만원
-  - 내용: Algorithm(Java), Web Programming(Spring, Vue)
+  - 내용: Java Basic, Algorithm(Java), Web Programming(Spring, Vue)
 
 ## 기술
 

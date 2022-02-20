@@ -34,6 +34,8 @@
 
 - 2020 Jun ~ : **Basic Modern JavaScript** book
 - 2021 Jul ~ : **AWS SAA** certification
+- 2022 Jan ~ : I studied the things below at **Samsung Multi-Campus**
+  - Java Basic, Algorithm(Java)
 
 ## 😙 I'll study
 
@@ -59,8 +61,6 @@
   - Web Programming(HTML, CSS, JavaScript, Django, React, Redux, Mobx)
   - Cloud Service(AWS)
   - Docker, Kubernetes
-- 2022 Jan ~ : I studied the things below at **Samsung Multi-Campus**
-  - Algorithm(Java)
 
 ### 💻 On the Internet
 
@@ -90,6 +90,8 @@ will be updated
 
 [![Wansang's github stats](https://github-readme-stats.vercel.app/api?username=wansang93&title_color=FFFFFF&text_color=ced6e0&bg_color=30deg,000000,57606f)](https://github.com/anuraghazra/github-readme-stats)
 
-![](https://komarev.com/ghpvc/?username=wansang93&color=lightgrey) [![wansang93 Solved.ac](http://mazassumnida.wtf/api/mini/generate_badge?boj=wansang93)](https://solved.ac/wansang93) -> [백준 문제풀이 링크](https://github.com/wansang93/Algorithm/blob/master/BAEKJOON/README.md)
+- ![Profile views](https://komarev.com/ghpvc/?username=wansang93&color=lightgrey)
+- [![Python badge](https://img.shields.io/badge/Python-3776AB.svg?&style=flat-square&logo=Python&logoColor=white)](#wansangs-info) [![wansang93(Python) Solved.ac](http://mazassumnida.wtf/api/mini/generate_badge?boj=wansang93)](https://solved.ac/wansang93)
+- [![Java badge](https://img.shields.io/badge/Java-007396.svg?&style=flat-square&logo=Java&logoColor=white)](#wansangs-info) [![wansang93(Java) Solved.ac](http://mazassumnida.wtf/api/mini/generate_badge?boj=cardano)](https://solved.ac/cardano)
 
-Last Update 2021-01-31
+Last Update 2022-02-14
