@@ -136,8 +136,8 @@
   - 교육기관: 멀티캠퍼스
   - 훈련비: 14,989,920 원
   - 내용: Web Programming(HTML, CSS, JavaScript, Django, React, Redux, Mobx), Cloud Service(AWS), Docker, Kubernetes
-- SSAFY
-  - 기간: 2022/01/05 ~
+- 삼성 청년 소프트웨어 아카데미(SSAFY: SAMSUNG SW ACADEMY FOR YOUTH)
+  - 기간: 2022/01/05 ~ 2022/07/14(125일, 1000시간)
   - 교육기관: 멀티캠퍼스
   - 품위유지비: 월 100만원
   - 내용: Java Basic, Algorithm(Java), Web Programming(Spring, Vue)
@@ -152,7 +152,7 @@
 
 [![TensorFlow badge](https://img.shields.io/badge/TensorFlow-FF6F00.svg?&style=flat-square&logo=TensorFlow&logoColor=white)](#기술) TensorFlow 2.0을 맛 봄
 
-[![Git badge](https://img.shields.io/badge/Git-F05032.svg?&style=flat-square&logo=Git&logoColor=white)](#기술) Git으로 대부분의 코드를 관리
+[![Git badge](https://img.shields.io/badge/Git-F05032.svg?&style=flat-square&logo=Git&logoColor=white)](#기술) Git으로 대부분의 코드를 관리, branch 관리, gitworkflow 등 활용 가능
 
 [![HTML5 badge](https://img.shields.io/badge/HTML5-E34F26.svg?&style=flat-square&logo=HTML5&logoColor=white)](#기술) 기본적인 HTML의 태그를 활용하여 웹 제작 가능
 

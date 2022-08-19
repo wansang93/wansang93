@@ -34,8 +34,6 @@
 
 - 2020 Jun ~ : **Basic Modern JavaScript** book
 - 2021 Jul ~ : **AWS SAA** certification
-- 2022 Jan ~ : I studied the things below at **Samsung Multi-Campus**
-  - Java Basic, Algorithm(Java)
 
 ## 😙 I'll study
 
@@ -61,6 +59,8 @@
   - Web Programming(HTML, CSS, JavaScript, Django, React, Redux, Mobx)
   - Cloud Service(AWS)
   - Docker, Kubernetes
+- 2022 Jan ~ 2022 Jul: I studied the things below at **Samsung Multi-Campus**
+  - Java Basic, Algorithm(Java)
 
 ### 💻 On the Internet
 
