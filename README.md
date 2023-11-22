@@ -1,5 +1,7 @@
 # Wansang's Info
 
+![Profile views](https://komarev.com/ghpvc/?username=wansang93&color=lightgrey)
+
 ## 😎 My motto about studying
 
 ### **Slow and steady wins the race** 🐢
@@ -13,19 +15,18 @@
 [![Spring badge](https://img.shields.io/badge/Spring-6DB33F.svg?&style=flat-square&logo=Spring&logoColor=white)](#wansangs-info)
 [![JavaScript badge](https://img.shields.io/badge/JavaScript-F7DF1E.svg?&style=flat-square&logo=JavaScript&logoColor=black)](#wansangs-info)
 
----
-
-## ⭐ I like to solve Algorithm problems
+## ⭐ I like Algorithm Problem Solving
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=wansang93&repo=algorithm&title_color=FFFFFF&text_color=ced6e0&bg_color=30deg,000000,57606f)](https://github.com/wansang93/Algorithm/tree/master/Team%20Note)
 
-- ![Profile views](https://komarev.com/ghpvc/?username=wansang93&color=lightgrey)
-- [![Python badge](https://img.shields.io/badge/Python-3776AB.svg?&style=flat-square&logo=Python&logoColor=white)](#wansangs-info) [![wansang93(Python) Solved.ac](http://mazassumnida.wtf/api/mini/generate_badge?boj=wansang93)](https://solved.ac/wansang93)
-- [![Java badge](https://img.shields.io/badge/Java-007396.svg?&style=flat-square&logo=Java&logoColor=white)](#wansangs-info) [![wansang93(Java) Solved.ac](http://mazassumnida.wtf/api/mini/generate_badge?boj=cardano)](https://solved.ac/cardano)
+[![Python badge](https://img.shields.io/badge/Python-3776AB.svg?&style=flat-square&logo=Python&logoColor=white)](https://www.acmicpc.net/user/wansang93) [![wansang93(Python) Solved.ac](http://mazassumnida.wtf/api/mini/generate_badge?boj=wansang93)](https://solved.ac/wansang93)  
+[![Java badge](https://img.shields.io/badge/Java-007396.svg?&style=flat-square&logo=Java&logoColor=white)](https://www.acmicpc.net/user/cardano) [![wansang93(Java) Solved.ac](http://mazassumnida.wtf/api/mini/generate_badge?boj=cardano)](https://solved.ac/cardano)
 
 <details>
 <summary>more details</summary>
 <div markdown="1">
+
+[Employment data](./employment.md)
 
 ## 🏅 Sub Skills
 
@@ -36,8 +37,6 @@
 ### 🥉 AI [![OpenCV badge](https://img.shields.io/badge/OpenCV-5C3EE8.svg?&style=flat-square&logo=OpenCV&logoColor=white)](#wansangs-info) [![Keras badge](https://img.shields.io/badge/Keras-D00000.svg?&style=flat-square&logo=Keras&logoColor=white)](#wansangs-info) [![TensorFlow badge](https://img.shields.io/badge/TensorFlow-FF6F00.svg?&style=flat-square&logo=TensorFlow&logoColor=white)](#wansangs-info)
 
 ---
-
-## [Employment data](./employment.md)
 
 ## 😜 What I am interested in now
 
@@ -56,7 +55,7 @@
 
 - **Deep Learning with Python** book
 - **Basic Machine/Deep Learning** [Youtube Link](https://www.youtube.com/playlist?list=PLlMkM4tgfjnLSOjrEJN31gZATbcj_MpUm)
-- **Linux on Coding Everybody** [Youtube Link](https://www.youtube.com/playlist?list=PLuHgQVnccGMBT57a9dvEtd6OuWpugF9SH), [Site Link](https://opentutorials.org/course/2598)
+- **Linux on Coding Everybody** [Youtube Link](https://www.youtube.com/playlist?list=PLuHgQVnccGMBT57a9dvEtd6OuWpugF9SH) [Site Link](https://opentutorials.org/course/2598)
 
 ## 🌆 Where I've worked
 
@@ -65,7 +64,6 @@
 
 ## 🏫 What I've learned
 
-- 2012 Mar ~ 2019 Feb: I majored in **Computer Information and Communication engineering** at **Hong-ik University**
 - 2022 Jan ~ 2022 Jul: I studied the things below at **Samsung Multi-Campus**
   - Java Basic, Algorithm(Java), Spring, Vue2
 - 2020 Dec ~ 2021 Jun: I studied the things below at **Samsung Multi-Campus**
@@ -79,17 +77,18 @@
   - Data Analysis(Numpy, Pandas, Matplotlib, Scikit-Learn, etc.)
   - AI / ML / Deep Learning / Reinforcement Learning(Tensorflow, Keras, etc.)
   - Web Programming(JavaScript, Django)
+- 2012 Mar ~ 2019 Feb: I majored in **Computer Information and Communication engineering** at **Hong-ik University**
 
 ### 💻 On the Internet
 
-- 2019 Nov: **Python for Beginner** [Programmers Link](https://programmers.co.kr/learn/courses/2)
-- 2019 Nov ~ 2020 Jul: **Python Coding Do-Jang** [Do-Jang Link](https://dojang.io/course/view.php?id=7)
-- 2020 Feb: **Code Python like Python style** [Programmers Link](https://programmers.co.kr/learn/courses/4008)
-- 2020 Jun ~ 2020 Sep: **How to use Python in Slicon-Velly** [Udemy Link](https://www.udemy.com/course/python-beginner-korean/)
-- 2020 Jul: **Basic Git & Github(Document Controller from the hell)** book & web [Youtube Link](https://www.youtube.com/playlist?list=PLRx0vPvlEmdD5FLIdwTM4mKBgyjv4no81)
-- 2020 Sep ~ 2020 Dec: **This is Linux(CentOS 8)** [Youtube Link](https://www.youtube.com/playlist?list=PLVsNizTWUw7EJ9z-LW3lv3VC-6HI9I3hN)
-- 2020 Oct ~ 2021 Jul: **This is Coding test** [Youtube Link](https://www.youtube.com/playlist?list=PLRx0vPvlEmdAghTr5mXQxGpHjWqSz0dgC)
 - 2021 Sep ~ 2021 Dec: **This is MySQL(8.0)** [Youtube Link](https://www.youtube.com/playlist?list=PLVsNizTWUw7Hox7NMhenT-bulldCp9HP9)
+- 2020 Oct ~ 2021 Jul: **This is Coding test** [Youtube Link](https://www.youtube.com/playlist?list=PLRx0vPvlEmdAghTr5mXQxGpHjWqSz0dgC)
+- 2020 Sep ~ 2020 Dec: **This is Linux(CentOS 8)** [Youtube Link](https://www.youtube.com/playlist?list=PLVsNizTWUw7EJ9z-LW3lv3VC-6HI9I3hN)
+- 2020 Jul: **Basic Git & Github(Document Controller from the hell)** book & web [Youtube Link](https://www.youtube.com/playlist?list=PLRx0vPvlEmdD5FLIdwTM4mKBgyjv4no81)
+- 2020 Jun ~ 2020 Sep: **How to use Python in Slicon-Velly** [Udemy Link](https://www.udemy.com/course/python-beginner-korean/)
+- 2020 Feb: **Code Python like Python style** [Programmers Link](https://programmers.co.kr/learn/courses/4008)
+- 2019 Nov ~ 2020 Jul: **Python Coding Do-Jang** [Do-Jang Link](https://dojang.io/course/view.php?id=7)
+- 2019 Nov: **Python for Beginner** [Programmers Link](https://programmers.co.kr/learn/courses/2)
 
 will be updated
 
@@ -99,7 +98,7 @@ will be updated
 
 will be updated
 
-[![Wansang's github stats](https://github-readme-stats.vercel.app/api?username=wansang93&title_color=FFFFFF&text_color=ced6e0&bg_color=30deg,000000,57606f)](https://github.com/anuraghazra/github-readme-stats)
+[![Wansang's langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wansang93&title_color=FFFFFF&text_color=ced6e0&bg_color=30deg,000000,57606f)](https://github.com/wansang93?tab=repositories) [![Wansang's github stats](https://github-readme-stats.vercel.app/api?username=wansang93&title_color=FFFFFF&text_color=ced6e0&bg_color=30deg,000000,57606f)](https://github.com/wansang93?tab=repositories)
 
 Last Updated 2023-11-22
 
