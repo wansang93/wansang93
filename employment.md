@@ -6,13 +6,15 @@ Last Update 2023-11-22
 
 - 이름: 김완상(Wansang Kim)
 - 생일: (1993/03/05)
-- 한글주소1: 경기도 김포시 걸포2로 83(걸포동, 한강메트로자이1단지)
+- 한글주소1: 서울특별시 영등포구 여의대방로19길 10
+- 영어주소1: 4493, Singil-dong, Yeongdeungpo-gu, Seoul, Republic of Korea
+- 한글주소2: 경기도 김포시 걸포2로 83(걸포동, 한강메트로자이1단지)
   - 우편번호: 10099
-- 영어주소1: 83, Geolpo 2-ro, Gimpo-si, Gyeonggi-do, Republic of Korea
-- 한글주소02: 서울특별시 영등포구 여의대방로19길 10
-- 영어주소2: 4493, Singil-dong, Yeongdeungpo-gu, Seoul, Republic of Korea
+- 영어주소2: 83, Geolpo 2-ro, Gimpo-si, Gyeonggi-do, Republic of Korea
 - 병역
   - 기간: 2014/04/29 ~ 2016/01/28
+  - 군번: 14-73024954
+  - 직무: 25사단 수색대대 행정병(작전병)
   - 내용: 육군, 병장, 만기재대, 보병(수색대)
 
 ## 학력 / 연구 / 경력 / NCS
@@ -40,12 +42,12 @@ Last Update 2023-11-22
 ### 경력
 
 - NDS(농심데이터시스템)
-  - 기간: 2021/07/015 ~ (재직중)
+  - 기간: 2021/07/15 ~ (재직중)
   - 부서: Dev/Ops
   - 직급: 매니저
-  - 연봉: 비밀
+  - 연봉: 미공개
   - 담당 업무: 빌링 시스템 개발
-  - 퇴직 사유: x
+  - 퇴직 사유: x(재직중)
 
 - Maven Cloud Service
   - 기간: 2021/08/26 ~ 2021/12/07(17주, 6개월)
@@ -55,15 +57,93 @@ Last Update 2023-11-22
   - 담당 업무: 자동화
   - 퇴직 사유: 교육기관 등록
 
-- 세종특별자치시청 보안관제센터
-  - 기간: 2018/12/17 ~ 2019/01/18(33일)
+### 인턴 및 아르바이트
+
+- Seoul42 Java 과정 전문가 문제 검증 아르바이트
+  - 회사: 에듀니티랩(이노베이션 아카데미 외주)
+  - 기간: 2023/10/16 ~ 2023/11/03(3주)
+  - 부서: 없음
+  - 직급: 없음
+  - 급여: 미공개
+  - 담당 업무: Seoul42 Java 과정 전문가 문제 검증 아르바이트
+  - 퇴직 사유: 계약 종료
+
+- 보안관제 인턴
+  - 회사: 세종특별자치시청 보안관제센터
+  - 기간: 2018/12/17 ~ 2019/01/18(5주, 33일)
   - 부서: 보안관제실
   - 직급: 인턴(체험형)
-  - 연봉: 월 120만원
+  - 급여: 월 120만원
   - 담당 업무: 보안 관제
   - 퇴직 사유: 계약 종료
 
-### 전공 학점
+## 어학 / 자격 / 기타 / 전공학점
+
+### 자격증
+
+- 정보처리기사
+  - 시험일자: 2022/10/16
+  - 합격일자: 2023/11/25
+  - 유효기간: 무제한
+  - 기관: 한국산업인력공단
+  - 자격번호: 22203020987J
+
+- SQL 개발자(SQLD)
+  - 시험일자: 2021/11/20
+  - 합격일자: 2021/12/17
+  - 유효기간: 무제한
+  - 기관: 한국데이터산업진흥원
+  - 자격번호: SQLD-043005698
+
+### 어학
+
+- 토익스피킹
+  - 날짜: 2020/03/22
+  - 기관: 한국TOEIC위원회
+  - 점수: Level5 120점
+  - 등록번호: 140819
+
+### 기타
+
+#### 교육
+
+- 삼성 청년 소프트웨어 아카데미(SSAFY: SAMSUNG SW ACADEMY FOR YOUTH)
+  - 기간: 2022/01/05 ~ 2022/07/14(125일, 1000시간)
+  - 교육기관: 멀티캠퍼스
+  - 품위유지비: 월 100만원
+  - 내용: Java Basic, Algorithm(Java), Web Programming(Spring, Vue)
+- 프로젝트형 클라우드(MSA) 서비스 개발
+  - 기간: 2020/12/28 ~ 2021/06/04(110일, 880시간)
+  - 교육기관: 멀티캠퍼스
+  - 훈련비: 14,989,920 원
+  - 내용: Web Programming(HTML, CSS, JavaScript, Django, React, Redux, Mobx), Cloud Service(AWS), Docker, Kubernetes
+- 빅데이터 활용(딥러닝) AI 설계
+  - 기간: 2019/04/22 ~ 2019/11/27(149일, 1184시간)
+  - 교육기관: 멀티캠퍼스
+  - 훈련비: 16,090,560 원
+  - 내용: Cloud Service(Azure), Statistics(R), Python Basic, Computer-Vision(Python, MySQL), Data Analysis(Numpy, Pandas, Matplotlib, Scikit-Learn, etc.), AI / ML / Deep Learning / Reinforcement Learning(Tensorflow, Keras, etc.) Web Programming(JavaScript, Django)
+
+#### 해외 경험
+
+- 호주 워킹홀리데이
+  - 기간: 2017/03/21 ~ 2018/02/20(337일, 11개월)
+  - 경험기술: 어학연수, 홈스테이, 아르바이트
+  - 거주지
+    - NSW Goulburn: 17주
+    - NSW Sydney(Strathfield, Paramata): 20주
+  - 여행지
+    - NT Alice Springs, Uluru: 4일
+    - VIC Melbourne(CBD): 3주
+    - TAS Hobart(CBD): 2주
+
+- 호주 여행
+  - 기간: 2019/01/27 ~ 2019/03/26(59일, 3개월)
+  - 경험기술: 홈스테이, 여행
+  - 여행지
+    - SA Adelaide(CBD): 1주
+    - SA Kangaroo Island: 1주
+
+#### 전공 학점
 
 1학년
 
@@ -101,74 +181,6 @@ Last Update 2023-11-22
 |   3   |         웹프로그래밍          |  B0   |
 |   3   |     데이터베이스 및 실습      |  B+   |
 |   3   | 안드로이드 프로그래밍 및 실습 |  C+   |
-
-## 어학 / 자격 / 기타
-
-### 해외 경험
-
-#### 호주
-
-- 호주 워킹홀리데이
-  - 기간: 2017/03/21 ~ 2018/02/20(337일, 11개월)
-  - 경험기술: 어학연수, 홈스테이, 아르바이트
-  - 거주지
-    - NSW Goulburn: 17주
-    - NSW Sydney(Strathfield, Paramata): 20주
-  - 여행지
-    - NT Alice Springs, Uluru: 4일
-    - VIC Melbourne(CBD): 3주
-    - TAS Hobart(CBD): 2주
-
-- 호주 여행
-  - 기간: 2019/01/27 ~ 2019/03/26(59일, 3개월)
-  - 경험기술: 홈스테이, 여행
-  - 여행지
-    - SA Adelaide(CBD): 1주
-    - SA Kangaroo Island: 1주
-
-### 자격
-
-#### 자격증
-
-- 정보처리기사
-  - 시험일자: 2022/10/16
-  - 합격일자: 2023/11/25
-  - 유효기간: 무제한
-  - 기관: 한국산업인력공단
-  - 자격번호: 22203020987J
-
-- SQL 개발자(SQLD)
-  - 시험일자: 2021/11/20
-  - 합격일자: 2021/12/17
-  - 유효기간: 무제한
-  - 기관: 한국데이터산업진흥원
-  - 자격번호: SQLD-043005698
-
-#### 어학
-
-- 토익스피킹
-  - 날짜: 2020/03/22
-  - 기관: 한국TOEIC위원회
-  - 점수: Level5 120점
-  - 등록번호: 140819
-
-#### 기타
-
-- 삼성 청년 소프트웨어 아카데미(SSAFY: SAMSUNG SW ACADEMY FOR YOUTH)
-  - 기간: 2022/01/05 ~ 2022/07/14(125일, 1000시간)
-  - 교육기관: 멀티캠퍼스
-  - 품위유지비: 월 100만원
-  - 내용: Java Basic, Algorithm(Java), Web Programming(Spring, Vue)
-- 프로젝트형 클라우드(MSA) 서비스 개발
-  - 기간: 2020/12/28 ~ 2021/06/04(110일, 880시간)
-  - 교육기관: 멀티캠퍼스
-  - 훈련비: 14,989,920 원
-  - 내용: Web Programming(HTML, CSS, JavaScript, Django, React, Redux, Mobx), Cloud Service(AWS), Docker, Kubernetes
-- 빅데이터 활용(딥러닝) AI 설계
-  - 기간: 2019/04/22 ~ 2019/11/27(149일, 1184시간)
-  - 교육기관: 멀티캠퍼스
-  - 훈련비: 16,090,560 원
-  - 내용: Cloud Service(Azure), Statistics(R), Python Basic, Computer-Vision(Python, MySQL), Data Analysis(Numpy, Pandas, Matplotlib, Scikit-Learn, etc.), AI / ML / Deep Learning / Reinforcement Learning(Tensorflow, Keras, etc.) Web Programming(JavaScript, Django)
 
 ## 기술
 
