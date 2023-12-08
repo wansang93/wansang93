@@ -1,6 +1,6 @@
 # Wansang Kim's Info
 
-Last Update 2023-11-22
+Last Updated 2023-11-22
 
 ## 기본 정보
 
