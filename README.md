@@ -34,9 +34,11 @@
 
 ### 🥉 AI [![OpenCV badge](https://img.shields.io/badge/OpenCV-5C3EE8.svg?&style=flat-square&logo=OpenCV&logoColor=white)](#wansangs-info) [![Keras badge](https://img.shields.io/badge/Keras-D00000.svg?&style=flat-square&logo=Keras&logoColor=white)](#wansangs-info) [![TensorFlow badge](https://img.shields.io/badge/TensorFlow-FF6F00.svg?&style=flat-square&logo=TensorFlow&logoColor=white)](#wansangs-info)
 
-[Employment data](./employment.md)
+## 🎖️ Certification
 
----
+- **AWS SAP**(AWS Certified Solutions Architect - Professional)
+- **Engineer Information Processing**(정보처리기사 in Korea)
+- **SQLD**(SQL Developer in Korea)
 
 ## 😜 What I am interested in now
 
@@ -49,13 +51,10 @@
 
 ## 😛 What I am studying
 
-- 2023 Nov ~ : **AWS SAP** Certification
-
-## 😙 I'll study
-
-- **Deep Learning with Python** book
 - **Basic Machine/Deep Learning** [Youtube Link](https://www.youtube.com/playlist?list=PLlMkM4tgfjnLSOjrEJN31gZATbcj_MpUm)
 - **Linux on Coding Everybody** [Youtube Link](https://www.youtube.com/playlist?list=PLuHgQVnccGMBT57a9dvEtd6OuWpugF9SH) [Site Link](https://opentutorials.org/course/2598)
+
+## 😙 I'll study
 
 ## 🌆 Where I've worked
 
@@ -90,8 +89,6 @@
 - 2019 Nov ~ 2020 Jul: **Python Coding Do-Jang** [Do-Jang Link](https://dojang.io/course/view.php?id=7)
 - 2019 Nov: **Python for Beginner** [Programmers Link](https://programmers.co.kr/learn/courses/2)
 
-will be updated
-
 ### 📚 From Books
 
 📕📙📒📗📘
@@ -100,7 +97,7 @@ will be updated
 
 [![Wansang's langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wansang93&title_color=FFFFFF&text_color=ced6e0&bg_color=30deg,000000,57606f)](https://github.com/wansang93?tab=repositories) [![Wansang's github stats](https://github-readme-stats.vercel.app/api?username=wansang93&title_color=FFFFFF&text_color=ced6e0&bg_color=30deg,000000,57606f)](https://github.com/wansang93?tab=repositories)
 
-Last Updated 2023-11-22
+Last Updated 2023-12-26
 
 </div>
 </details>
