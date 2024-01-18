@@ -2,6 +2,8 @@
 
 ![Profile views](https://komarev.com/ghpvc/?username=wansang93&color=lightgrey)
 
+## 😝 What I want: To be a **Data Scientist**
+
 ## 😎 My motto about studying
 
 ### **Slow and steady wins the race** 🐢
@@ -11,7 +13,7 @@
 [![AWS badge](https://img.shields.io/badge/AWS-232F3E.svg?&style=flat-square&logo=Amazon%20AWS&logoColor=white)](#wansangs-info)
 [![MySQL badge](https://img.shields.io/badge/MySQL-4479A1.svg?&style=flat-square&logo=MySQL&logoColor=white)](#wansangs-info)
 [![Python badge](https://img.shields.io/badge/Python-3776AB.svg?&style=flat-square&logo=Python&logoColor=white)](#wansangs-info)
-[![Vue badge](https://img.shields.io/badge/vue-4FC08D.svg?&style=flat-square&logo=vuedotjs&logoColor=white)](#wansangs-info)
+[![Vue badge](https://img.shields.io/badge/Vue-4FC08D.svg?&style=flat-square&logo=vuedotjs&logoColor=white)](#wansangs-info)
 [![Spring badge](https://img.shields.io/badge/Spring-6DB33F.svg?&style=flat-square&logo=Spring&logoColor=white)](#wansangs-info)
 [![JavaScript badge](https://img.shields.io/badge/JavaScript-F7DF1E.svg?&style=flat-square&logo=JavaScript&logoColor=black)](#wansangs-info)
 
@@ -26,6 +28,12 @@
 <summary>more details</summary>
 <div markdown="1">
 
+## 🎖️ Certification
+
+- **AWS SAP**(AWS Certified Solutions Architect - Professional)
+- **Engineer Information Processing**(정보처리기사 in Korea)
+- **SQLD**(SQL Developer in Korea)
+
 ## 🏅 Sub Skills
 
 ### 🥇 Web [![Django badge](https://img.shields.io/badge/Django-092E20.svg?&style=flat-square&logo=Django&logoColor=white)](#wansangs-info) [![React badge](https://img.shields.io/badge/React-61DAFB.svg?&style=flat-square&logo=React&logoColor=black)](#wansangs-info) [![CSS3 badge](https://img.shields.io/badge/CSS3-1572B6.svg?&style=flat-square&logo=CSS3&logoColor=white)](#wansangs-info) [![HTML5 badge](https://img.shields.io/badge/HTML5-E34F26.svg?&style=flat-square&logo=HTML5&logoColor=white)](#wansangs-info)
@@ -34,20 +42,12 @@
 
 ### 🥉 AI [![OpenCV badge](https://img.shields.io/badge/OpenCV-5C3EE8.svg?&style=flat-square&logo=OpenCV&logoColor=white)](#wansangs-info) [![Keras badge](https://img.shields.io/badge/Keras-D00000.svg?&style=flat-square&logo=Keras&logoColor=white)](#wansangs-info) [![TensorFlow badge](https://img.shields.io/badge/TensorFlow-FF6F00.svg?&style=flat-square&logo=TensorFlow&logoColor=white)](#wansangs-info)
 
-## 🎖️ Certification
-
-- **AWS SAP**(AWS Certified Solutions Architect - Professional)
-- **Engineer Information Processing**(정보처리기사 in Korea)
-- **SQLD**(SQL Developer in Korea)
-
 ## 😜 What I am interested in now
 
 1. Web
 2. Cloud(especially AWS, Azure) & Linux
 3. ML & AL(especially Tensorflow and Keras)
 4. BitCoin(blockchain), Trading Bot
-
-## 😝 What I want: To be a **Data Scientist**
 
 ## 😛 What I am studying
 
@@ -97,7 +97,7 @@ will be updated
 
 [![Wansang's langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wansang93&title_color=FFFFFF&text_color=ced6e0&bg_color=30deg,000000,57606f)](https://github.com/wansang93?tab=repositories) [![Wansang's github stats](https://github-readme-stats.vercel.app/api?username=wansang93&title_color=FFFFFF&text_color=ced6e0&bg_color=30deg,000000,57606f)](https://github.com/wansang93?tab=repositories)
 
-Last Updated 2023-12-26
+Last Updated 2024-01-18
 
 </div>
 </details>
